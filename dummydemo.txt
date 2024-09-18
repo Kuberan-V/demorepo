@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Hi naan thanda leo leo das ok parthiban
+=======
+Hi naan thanda leo leo das ok vijay
+>>>>>>> Stashed changes
